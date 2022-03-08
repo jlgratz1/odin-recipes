@@ -6,4 +6,4 @@ Review of basic HTML skills:
     Lists
     Links and Images
 
-This project does not include any CSS
+Updated with basic CSS
